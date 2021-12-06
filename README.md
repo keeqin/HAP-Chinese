@@ -1,5 +1,5 @@
 **HomeKit配件协议说明V2**
-
+英文原版文档：[HAP-Specification-Non-Commercial-Version](HAP-Specification-Non-Commercial-Version.pdf)
 ###### [1. 介绍](1.介绍.md)
 ---
 ###### [2. 核心概念](1.核心概念.md)
